@@ -1,7 +1,16 @@
 November 19 2017 2:28AM
-=========================
+========================
 Registered for LinkedIn profile https://www.linkedin.com/in/chandan-prasad-055ba9153/ after my close friend suggested me to do so...
 Don't know whether I would get internships with no any real skills, Hope I can get one. Just a hope.
 
 2:35AM => Now time for segment tree, lets see how much I can learn in next 30 minutes. May god help me.
 5:07AM => Now I must sleep, next day in digital communications external proactical exams.
+
+November 21 2017 12:42AM
+=========================
+Tommorow I have external practical of Communication Skills for Professionals, and Digital Communication Viva.
+I am going to fail in Digital Communication Subject because I failed to understand these things. Even in high schools it was my weak area although nothing was my perfect field and that can be understood obviously when you are in pure govt school (not some kv or sarvodaya), we know our teachers by only throught time table that used to circulate among us.
+
+November 24 2017 8:31AM
+========================
+Practical Exams over, Time to implement Segment tree.
