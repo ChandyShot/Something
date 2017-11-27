@@ -14,3 +14,9 @@ I am going to fail in Digital Communication Subject because I failed to understa
 November 24 2017 8:31AM
 ========================
 Practical Exams over, Time to implement Segment tree.
+
+November 27 2017 9:17AM
+=======================
+Segment tree over.
+I must practice LTIME previous contest.
+Starting LTIME01.
